@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="text-align:center">
+<div align="center">
   <img src="iteproject.jpg" height="250" />
 </div>
 
