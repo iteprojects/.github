@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ITE LOGO](profile/iteproject.jpg)
+![ITE LOGO](iteproject.jpg)
 ### This is ITE PROJECTS 
 <!--
 
