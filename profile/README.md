@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="iteproject.jpg" height="400" />
+<div style="text-align:center">
+  <img src="iteproject.jpg" height="250" />
+</div>
 
 ### This is ITE PROJECTS 
 <!--
