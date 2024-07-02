@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ITE LOGO](iteproject.jpg)
+![ITE LOGO](iteproject.jpg = 200x200)
 ### This is ITE PROJECTS 
 <!--
 
