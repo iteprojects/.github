@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="iteproject.jpg" width="200" height="400" />
 ![ITE LOGO](iteproject.jpg = 200x200)
 ### This is ITE PROJECTS 
 <!--
